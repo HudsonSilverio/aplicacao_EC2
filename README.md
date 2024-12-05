@@ -1,0 +1,1 @@
+## projeto para subir aplicao EC2
